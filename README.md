@@ -13,3 +13,7 @@ Supreme thanks to dimonnomid and SpacedInvader and grayduster and Dr. Walther an
 License: CC-BY-NC-SA
 
 Some planetary imagery is derived from work by Steve Albers and NASA / Jet Propulsion Laboratory, and some from the Celestia Motherlode (itself in the main sourced from JPL). Used by permission of the licenses for non-commercial release.
+
+UPDATES:
+6-28-16
+* New Moon textures
